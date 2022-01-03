@@ -1,6 +1,6 @@
 # Meebits API
 
-This repository is the home of documentation for the API for the [Meebits](https://meebits.larvalabs.com/). The current focus is allowing access to Meebit model files for use in any game, social platformn, or metaverse a Meebit owner wants to enter. It will likely expand in the future to allow access to Meebit attribute and market data.
+This repository is the home of documentation for the API for the [Meebits](https://meebits.larvalabs.com/). The current focus is allowing access to Meebit model files for use in any game, social platform, or metaverse a Meebit owner wants to enter. It will likely expand in the future to allow access to Meebit attribute and market data.
 
 # Meebits Owner Files API (Alpha)
 
