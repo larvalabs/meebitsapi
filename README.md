@@ -20,7 +20,7 @@ For example, here is a link that includes a test callback on our own site that w
 
 If the access request was completed successfully you will receive two parameters to your callback URL:
 ```
-account: The account address that apporved access.
+account: The account address that approved access.
 accessToken: The token that grants access to the owner files.
 ```
 
