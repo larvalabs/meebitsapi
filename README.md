@@ -1,6 +1,10 @@
+# Meebits API
+
+This repository is the home of documentation for the API for the [Meebits](https://meebits.larvalabs.com/). The current focus is allowing access to Meebit model files for use in any game, social platformn, or metaverse a Meebit owner wants to enter. It will likely expand in the future to allow access to Meebit attribute and market data.
+
 # Meebits Owner Files API (Alpha)
 
-This API will allow third party access to additional files for Meebits, if the owner gives permission. Current examples of additional files include T-Pose VOX files, and rigged models in VRM, FBX and GLB formats.
+This API will allow third party access to additional files for Meebits, if the owner gives permission. Current examples of additional files include T-Pose VOX files, and rigged models in VRM, FBX and GLB formats. More detail on these formats in the release [Tweet thread](https://twitter.com/larvalabs/status/1455644953204469760).
 
 ## Requesting Owner Permission
 
